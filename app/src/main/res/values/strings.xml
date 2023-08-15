@@ -2,5 +2,7 @@
     <string name="app_name">Test Quiz</string>
     <string name="title_home">Home</string>
     <string name="title_quiz">Quiz</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="title_rank">Rank</string>
+    <string name="quiz_name">Curiosidades Aleatórias em um (Quiz)!</string>
+    <string name="iniciar_Button">Iniciar</string>
 </resources>
